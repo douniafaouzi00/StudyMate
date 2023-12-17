@@ -1,0 +1,648 @@
+{
+    "onBoardTitle1":"Need help?",
+    "@onBoardTitle1":{
+        "description": "On board title 1"
+    },
+    "onBoardSubTitle1":"Use StudyMate to find a tutor to support you",
+    "@onBoardSubTitle1":{
+        "description": "On board subtitle 1"
+    },
+    "onBoardTitle2":"Give Help",
+    "@onBoardTitle2":{
+        "description": "On board title 2"
+    },
+    "onBoardSubTitle2":"Help someone pass exams that you've succesfully pass!",
+    "@onBoardSubTitle2":{
+        "description": "On board subtitle 2"
+    },
+    "onBoardTitle3":"Receive Help",
+    "@onBoardTitle3":{
+        "description": "On board title 3"
+    },
+    "onBoardSubTitle3":"In exchange, recive help passing yours!",
+    "@onBoardSubTitle3":{
+        "description": "On board subtitle 3"
+    },
+    "startCaps":"START",
+    "@startCaps":{
+        "description": "START"
+    },
+    "skipCaps":"SKIP",
+    "@skipCaps":{
+        "description": "SKIP"
+    },
+    "nextCaps":"NEXT",
+    "@nextCaps":{
+        "description": "NEXT"
+    },
+
+    "login":"Login",
+    "@login":{
+        "description": "Login"
+    },
+    "email":"Email",
+    "@email":{
+        "description": "Email"
+    },
+    "validEmail":"Enter a valid email",
+    "@validEmail":{
+        "description": "Enter a valid email"
+    },
+    "password":"Password",
+    "@password":{
+        "description": "Password"
+    },
+    "enterPassword":"Enter password",
+    "@enterPassword":{
+        "description": "Enter password"
+    },
+    "forgotPassword":"Forgot your password?",
+    "@forgotPassword":{
+        "description": "Forgot your password?"
+    },
+    "loginCaps":"LOGIN",
+    "@loginCaps":{
+        "description": "LOGIN"
+    },
+    "noAccountQustion":"Don't Have an Account?",
+    "@noAccountQustion":{
+        "description": "Don't Have an Account?"
+    },
+    "signUp":"Sign Up",
+    "@signUp":{
+        "description": "Sign Up"
+    },
+    "orSignGoogle":"or sign in with google",
+    "@orSignGoogle":{
+        "description": "orSignGoogle message"
+    },
+    "buttonSignUpGoogle":"Sign Up with Google",
+    "@buttonSignUpGoogle":{
+        "description": "button text sign up google"
+    },
+
+    "resetPswTitle":"Reset password",
+    "@resetPswTitle":{
+        "description": "resetPswTitle"
+    },
+    "resetPswSubTitle":"Receive an email to reset your password.",
+    "@resetPswSubTitle":{
+        "description": "resetPswSubTitle"
+    },
+    "pswReceived":"Password received,",
+    "@pswReceived":{
+        "description": "pswReceived"
+    },
+
+
+
+    "minSixCharPsw":"Enter min. 6 characters",
+    "@minSixCharPsw":{
+        "description": "minSixCharPsw"
+    },
+
+    "haveAlreadyAccount":"Already Have an Account?",
+    "@haveAlreadyAccount":{
+        "description": "Already Have an Account?"
+    },
+
+    "name":"Name",
+    "@name":{
+        "description": "Name"
+    },
+    "validName":"Enter valid Name",
+    "@validName":{
+        "description": "Enter valid Name"
+    },
+    "surname":"Surname",
+    "@urname":{
+        "description": "Surname"
+    },
+    "validSurname":"Enter valid Surname",
+    "@validSurname":{
+        "description": "Enter valid Surname"
+    },
+
+    "yourInterestsTitle":"Your interests",
+    "@yourInterests":{
+        "description": "Your interests"
+    },
+    "yourInterestsSubTitle":"Select a few of subjects that interest you.",
+    "@yourInterestsSubTitle":{
+        "description": "Select a few of your subjects that interest you."
+    },
+    "selectOneSubject":"Select at least one subject",
+    "@selectOneSubject":{
+        "description": "selectOneSubject"
+    },
+
+
+    "welcome":"Welcome",
+    "@welcome":{
+        "description": "Welcome message homepage"
+    },
+    "suggestedTitle":"Suggested for you",
+    "@suggestedTitle":{
+        "description": "Title of suggested section in homepage"
+    },
+    "suggestedSubTitle":"This is a list of possible community tutors you could study with.",
+    "@suggestedSubTitle":{
+        "description": "Subtitle of suggested section in homepage"
+    },
+    "nextLessonTitle":"Your next lesson",
+    "@nextLessonTitle":{
+        "description": "Title of next lesson part"
+    },
+    "nextTutoringTitle":"Your next tutoring",
+    "@nextTutoringTitle":{
+        "description": "Title of next tutoring part"
+    },
+
+
+    "lessonBookedConfirm":"Lesson booked!",
+    "@lessonBookedConfirm":{
+        "description": "Lesson booked!"
+    },
+    "selectTimeslotTitle":"Select the timeslots",
+    "@selectTimeslotTitle":{
+        "description": "Title for the selection of the timeslots"
+    },
+    "noLessonsInDay":"No lessons in this day.",
+    "@noLessonsInDay":{
+        "description": "No lessons in this day message if no timeslot in a day"
+    },
+    "creditAvailable":"Credits available",
+    "@creditAvailable":{
+        "description": "Credits available on booking lesson"
+    },
+    "oneCreditHour":"(1 credit/1 hour)",
+    "@oneCreditHour":{
+        "description": "Explaination of the value of a credit in hours"
+    },
+    "closeCaps":"CLOSE",
+    "@closeCaps":{
+        "description": "CLOSE button modal"
+    },
+    "noCredits":"Not enough credits!",
+    "@noCredits":{
+        "description": "Not enough credits! message when booking"
+    },
+    "bookLessonCaps":"BOOK THE LESSON",
+    "@bookLessonCaps":{
+        "description": "BOOK THE LESSON button modal"
+    },
+    "noTimestamp":"No timestamp",
+    "@noTimestamp":{
+        "description": "No timestamp error message"
+    },   
+
+
+    "createTimeslotTitle":"Select your free time",
+    "@selectFreeTime":{
+        "description": "Title create timeslot"
+    },
+    "createTimeslotSubtitle":"Before creating your first lesson, enter the time slots of the week when you would be free to give lessons.",
+    "@createTimeslotSubtitle":{
+        "description": "Subtitle create timeslot"
+    },
+    "from":"From",
+    "@from":{
+        "description": "From"
+    },
+    "to":"To",
+    "@to":{
+        "description": "To"
+    },
+    "createTimeslotSnackError":"Fill out the previous form first.",
+    "@createTimeslotSnackError":{
+        "description": "Snackbar error create timeslot"
+    },
+    "addTimeslotButton":"Add a new time slot",
+    "@addTimeslotButton":{
+        "description": "Add timeslot button"
+    },
+    "createTimeslotFillAllSnack":"Fill out all the previous fields first.",
+    "@createTimeslotFillAllSnack":{
+        "description": "create Timeslot Fill All Snack"
+    },
+    "createTimeslotFillOneSnack":"Please enter at least one valid field.",
+    "@createTimeslotFillOneSnack":{
+        "description": "Please enter at least one valid field."
+    },
+    "createTimeslotInvalidFieldSnack":"Some invalid fields.",
+    "@createTimeslotInvalidFieldSnack":{
+        "description": "Some invalid fields."
+    },
+
+
+    "incorrectTime":"Incorrect time entered.",
+    "@incorrectTime":{
+        "description": "Incorrect time entered error."
+    },
+    "incorrectTimeOverlaps":"Incorrect time entered. Possible overlaps.",
+    "@incorrectTimeOverlaps":{
+        "description": "Incorrect time entered. Possible overlaps. error"
+    },
+    "timeslotAdded":"Time slots added!",
+    "@timeslotAdded":{
+        "description": "Time slots added!r"
+    },
+    "editTimeslotTitle":"Edit timeslots",
+    "@editTimeslotTitle":{
+        "description": "Edit timeslots"
+    },   
+
+
+    "messages":"Messages",
+    "@messages":{
+        "description": "Messages"
+    },
+    "selectChat":"Select a chat.",
+    "@selectChat":{
+        "description": "select chat"
+    },
+
+
+    "monday":"Monday",
+    "@monday":{
+        "description": "Monday"
+    },
+    "tuesday":"Tuesday",
+    "@tuesday":{
+        "description": "Tuesday"
+    },
+    "wednesday":"Wednesday",
+    "@wednesday":{
+        "description": "Wednesday"
+    },
+    "thursday":"Thursday",
+    "@thursday":{
+        "description": "Thursday"
+    },
+    "friday":"Friday",
+    "@friday":{
+        "description": "Friday"
+    },
+    "saturday":"Saturday",
+    "@saturday":{
+        "description": "Saturday"
+    },
+    "sunday":"Sunday",
+    "@sunday":{
+        "description": "Sunday"
+    },
+    "noLessons":"No lessons",
+    "@noLessons":{
+        "description": "No lessons"
+    },
+    "about":"About",
+    "@about":{
+        "description": "About"
+    },
+    "userRating":"User rating",
+    "@userRating":{
+        "description": "User rating"
+    },
+
+
+    "search":"Search",
+    "@search":{
+        "description": "Search"
+    },
+    "categories":"Categories",
+    "@categories":{
+        "description": "Categories"
+    },
+    "recent":"Recent",
+    "@recent":{
+        "description": "Recent"
+    },
+    "searchLessonHint":"Search a lesson",
+    "@searchLessonHint":{
+        "description": "Search a lesson"
+    },
+
+
+
+    "lessonAdded":"Lesson added!",
+    "@lessonAdded":{
+        "description": "Lesson added!"
+    },
+    "createLessonTitle":"Create a lesson",
+    "@createLessonTitle":{
+        "description": "Create a lesson title page"
+    },
+    "createLessonSubtitle":"Here you can create your lesson. Give lessons to other people in the community to receive points that you can spend on other community lessons.",
+    "@createLessonSubtitle":{
+        "description": "Create a lesson subtitle page"
+    },
+    "pleaseEnterText":"Please enter some text",
+    "@pleaseEnterText":{
+        "description": "Hint message textfiled"
+    },
+    "title":"Title",
+    "@title":{
+        "description": "Title"
+    },
+    "titleFieldHint":"Type the title of your lesson",
+    "@titleFieldHint":{
+        "description": "hint textfield title"
+    },
+    "descriptionFieldHint":"Type the description of your lesson",
+    "@descriptionFieldHint":{
+        "description": "hint textfield description"
+    },
+    "category":"Category",
+    "@category":{
+        "description": "Category"
+    },
+    "pleaseCategoryText":"Please select a category",
+    "@categoryFieldHint":{
+        "description": "Select one category message error"
+    },
+    "categoryFieldHint":"Select the category of your lesson",
+    "@categoryFieldHint":{
+        "description": "hint textfield category"
+    },
+    "submit":"Submit",
+    "@submit":{
+        "description": "Submit"
+    },
+
+
+    "helperHoursAvailable":"You have {numberOfHours} hours available to spend on other lessons. Finish some lessons or create new ones to get more.",
+    "@helperHoursAvailable":{
+        "description": "Text modal hours available",
+        "placeholders": {
+            "numberOfHours": {
+                "type": "int"
+            }
+        }
+    },   
+    "noImgSelected":"No image selected",
+    "@noImgSelected":{
+        "description": "No image selected"
+    },   
+    "noImgCropped":"No image cropped",
+    "@noImgCropped":{
+        "description": "No image cropped"
+    },  
+    "imgLoaded":"Image loaded",
+    "@imgLoaded":{
+        "description": "Image loaded"
+    },     
+    "close":"Close",
+    "@close":{
+        "description": "Close"
+    },
+    "editPreferences":"Edit preferences",
+    "@editPreferences":{
+        "description": "Edit preferences"
+    },
+    "insertTimeslots":"Insert timeslots",
+    "@insertTimeslots":{
+        "description": "Insert timeslots"
+    },
+    "editTimeslots":"Edit timeslots",
+    "@editTimeslots":{
+        "description": "Edit timeslots"
+    },
+    "logout":"Logout",
+    "@logout":{
+        "description": "Logout"
+    },
+    "browseGallery":"Browse Gallery",
+    "@browseGallery":{
+        "description": "Browse Gallery"
+    },
+    "or":"or",
+    "@or":{
+        "description": "or"
+    },
+    "useCamera":"Use a Camera",
+    "@useCamera":{
+        "description": "Use a Camera"
+    },
+    "reviews":"reviews",
+    "@reviews":{
+        "description": "reviews"
+    },
+    "rating":"rating",
+    "@rating":{
+        "description": "rating"
+    },
+    "ownLesson":"Own lessons",
+    "@ownLesson":{
+        "description": "Own lessons"
+    },
+    "saved":"Saved",
+    "@saved":{
+        "description": "Saved"
+    },
+    "noLessonsSaved":"No lessons saved.",
+    "@noLessonsSaved":{
+        "description": "No lessons saved."
+    },
+
+    "lessonDeleted":"Lesson successfully deleted.",
+    "@lessonDeleted":{
+        "description": "Lesson successfully deleted."
+    },
+    "deleteLessonTitle":"Do you want to delete the lesson?",
+    "@deleteLessonTitle":{
+        "description": "Delete Lesson Title"
+    },
+    "deleteLessonSubTitle":"Are you sure you want to delete the lesson? This operation is irreversible.",
+    "@deleteLessonSubTitle":{
+        "description": "Delete Lesson SubTitle"
+    },
+    "ok":"Ok",
+    "@ok":{
+        "description": "Ok"
+    },
+    "editLesson":"Edit lesson",
+    "@editLesson":{
+        "description": "Edit lesson"
+    },
+    "deleteLesson":"Delete lesson",
+    "@deleteLesson":{
+        "description": "Delete lesson"
+    },
+    "noOwnLesson":"No own lessons.",
+    "@noOwnLesson":{
+        "description": "No own lessons."
+    },
+
+    "lessonEdited":"Lesson edited!",
+    "@lessonEdited":{
+        "description": "Lesson edited!"
+    },
+    "editLessonTitle":"Edit the lesson",
+    "@editLessonTitle":{
+        "description": "Edit the lesson"
+    },
+    "editOneField":"Edit at least one field",
+    "@editOneField":{
+        "description": "Edit at least one field"
+    },
+
+    "scanQrCodeTitle":"Scan QrCode",
+    "@scanQrCode":{
+        "description": "Scan QrCode subtitle"
+    },
+    "scanQrCodeGenSubTitle":"Select the taught lesson timeslot and generate the qr code, make the student scan in to gain hours to spend on lessons in the app.",
+    "@scanQrCodeGenSubTitle":{
+        "description": "Scan QrCode subtitle"
+    },
+
+
+    "centerQrCode":"Center the Qr code.",
+    "@centerQrCode":{
+        "description": "Center the Qr code."
+    },
+    "scanQrCodeScanSubTitle":"Please scan the qrCode of the tutor.",
+    "@scanQrCodeScanSubTitle":{
+        "description": "Scan QrCode subtitle"
+    },
+    "review":"Review",
+    "@review":{
+        "description": "Review"
+    },
+    "leaveReview":"Hope you've enjoid your lesson feel free to leave a start review on the tutor.",
+    "@leaveReview":{
+        "description": "Leave review message"
+    },
+    "thanksReview":"Thanks for the review.",
+    "@thanksRewview":{
+        "description": "Thanks review"
+    },
+    "continueText":"Continue",
+    "@continue":{
+        "description": "Continue"
+    },
+    "scanValidQR":"Scan a valid Qr Code.",
+    "@scanValidQR":{
+        "description": "Scan a valid Qr Code."
+    },
+
+    "lessonDone":"Lesson done!",
+    "@lessonDone":{
+        "description": "lesson done"
+    },
+    "thanksLessonDone":"Thank for sharing your knowledge, we've added hours to your time credit!",
+    "@thanksLessonDone":{
+        "description": "thanks lesson done"
+    },
+
+
+    "notifications":"Notifications",
+    "@notifications":{
+        "description": "Notifications"
+    },
+
+    "newMessage":"New message!",
+    "@newMessage":{
+        "description": "New message!"
+    },
+    "notifRequestTutoring":"sent a request for tutoring for:",
+    "@notifRequestTutoring":{
+        "description": "request for tutoring"
+    },
+    "accept":"Accept",
+    "@accept":{
+        "description": "Accept"
+    },
+    "reject":"Reject",
+    "@reject":{
+        "description": "Reject"
+    },
+
+   "leftReview":"has left a review on your lesson:",
+    "@leftReview":{
+        "description": "leftReview"
+    },
+
+
+
+    "acceptedTutoring":"accepted your request for tutoring of lesson:",
+    "@acceptedTutoring":{
+        "description": "Accepted tutoring"
+    },
+    "rejectedTutoring":"rejected your request for tutoring of lesson:",
+    "@rejectedTutoring":{
+        "description": "Rejected tutoring"
+    },
+
+
+    "attention":"Attention!",
+    "@attention":{
+        "description": "Attention!"
+    },
+    "tunrOnGPS":"You must turn on or enable the localization service!",
+    "@tunrOnGPS":{
+        "description": "Student"
+    },
+
+    "sharePosition":"Share position",
+    "@sharePosition":{
+        "description": "Share position"
+    },
+    "shareCurrentPosition":"Share current position",
+    "@shareCurrentPosition":{
+        "description": "Share position"
+    },
+    "sharedPosition":"Shared Position",
+    "@sharedPosition":{
+        "description": "Shared position"
+    },
+    "selectLocation":"Select a location to share!",
+    "@selectLocation":{
+        "description": "Select a location to share!"
+    },
+
+    "sharedCurrentPosition":"Shared current position!",
+    "@sharedCurrentPosition":{
+        "description": "Shared current position!"
+    },
+
+    "student":"Student",
+    "@student":{
+        "description": "Student"
+    },
+    "lessons":"Lessons",
+    "@lessons":{
+        "description": "Lessons"
+    },
+    "tutor":"Tutor",
+    "@tutor":{
+        "description": "Tutor"
+    },
+    "tutoring":"Tutoring",
+    "@tutoring":{
+        "description": "Tutoring"
+    },
+    "date":"Date",
+    "@date":{
+        "description": "Date"
+    },
+    "seeNext":"see next...",
+    "@seeNext":{
+        "description": "see next..."
+    },
+    "cancel":"Cancel",
+    "@cancel":{
+        "description": "Cancel"
+    },
+    "confirm":"Confirm",
+    "@confirm":{
+        "description": "Confirm"
+    },
+    "delete":"Delete",
+    "@delete":{
+        "description": "Delete"
+    },
+    "deleteMessage":"Would you like to delete this lesson?",
+    "@deleteMessage":{
+        "description": "Delete message"
+    }
+}
